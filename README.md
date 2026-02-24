@@ -49,7 +49,7 @@ The project utilizes six interconnected datasets from a retail wine & spirits op
 | `InvoicePurchases12312016.csv` | Invoice-level purchase summaries | VendorName, InvoiceDate, PayDate, Dollars |
 | `2017PurchasePricesDec.csv` | Product pricing reference | Brand, PurchasePrice, Price, Classification |
 
-> **Note:** Dataset files are not included in the repository due to size (~570 MB total). Download from the [original source](https://www.kaggle.com/) and place in the `data/` directory.
+> **Note:** Dataset files are not included in the repository due to size (~570 MB total). Download from the [Kaggle Dataset](https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data) and place in the `data/` directory.
 
 ---
 
