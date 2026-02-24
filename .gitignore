@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Data (too large for git)
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output (regenerated on each run)
+# output/
